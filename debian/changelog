@@ -1,0 +1,8 @@
+ros-indigo-ridgeback-gazebo (0.0.1-0trusty) trusty; urgency=high
+
+  * Initial release.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 25 May 2016 04:00:00 -0000
+
+
