@@ -1,0 +1,16 @@
+ros-kinetic-ridgeback-gazebo (0.0.2-0jessie) jessie; urgency=high
+
+  * Changed Ridgeback config to environment variable and minor clean-up of ForceBasedPlugin.
+  * Updated default world to a wider and less constrained version.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 08 May 2017 04:00:00 -0000
+
+ros-kinetic-ridgeback-gazebo (0.0.1-0jessie) jessie; urgency=high
+
+  * Initial release.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 25 May 2016 04:00:00 -0000
+
+
