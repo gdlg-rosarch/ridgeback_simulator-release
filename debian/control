@@ -1,0 +1,12 @@
+Source: ros-kinetic-ridgeback-simulator
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/ridgeback_simulator
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ridgeback-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ridgeback-gazebo
+Description: Packages for simulating Ridgeback.
