@@ -1,0 +1,15 @@
+ros-kinetic-ridgeback-gazebo-plugins (0.0.2-0jessie) jessie; urgency=high
+
+  * Changed Ridgeback config to environment variable and minor clean-up of ForceBasedPlugin.
+  * Contributors: Tony Baltovski
+
+ -- Johannes Meyer <meyer@fsr.tu-darmstadt.de>  Mon, 08 May 2017 04:00:00 -0000
+
+ros-kinetic-ridgeback-gazebo-plugins (0.0.1-0jessie) jessie; urgency=high
+
+  * Initial release.
+  * Contributors: Tony Baltovski
+
+ -- Johannes Meyer <meyer@fsr.tu-darmstadt.de>  Wed, 25 May 2016 04:00:00 -0000
+
+
