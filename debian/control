@@ -1,0 +1,12 @@
+Source: ros-kinetic-mecanum-gazebo-plugin
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), gazebo7, ros-kinetic-catkin, ros-kinetic-rosconsole, ros-kinetic-roslint
+Homepage: http://wiki.ros.org/mecanum_gazebo_plugin
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-mecanum-gazebo-plugin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gazebo7, ros-kinetic-rosconsole
+Description: Plugin which uses directional friction to simulate mecanum wheels.
